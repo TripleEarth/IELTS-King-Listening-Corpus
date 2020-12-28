@@ -1,0 +1,15 @@
+cash
+cheque
+credit card
+bank transfer
+post
+phone
+pound
+pence
+penny
+pennies
+dollar
+cent
+Euro
+Yen
+Australian dollars
